@@ -1,0 +1,1 @@
+This is my example of data science project using python pandas  and matplotlib libraries
